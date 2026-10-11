@@ -1,0 +1,513 @@
+### 👤 SECTION 1: PLAYER CHARACTER
+* **Name:**
+
+ * **Level: 1
+
+---
+
+### ⏳ SECTION 2: CONTINUITY
+* **Health:**  / 100
+
+* **Stamina:**  / 100 
+
+* **Armor Mitigation %;
+
+* **Weapon Success %:
+
+* **Item Success %:
+
+---
+
+### ⏳ SECTION 3: STATS: 
+
+***Perception : 0/10
+
+Spears %:
+Effects: 
+Points: 0/5
+
+Perception Mastery: 
+Effects: 
+Points: 0/3
+
+Rifles %:
+Effects: 
+Points: 0/5
+
+Lock Picking %:
+Effects; 
+Points: 0/5
+
+Salvaging %:
+Effects: 
+Points: 0/5
+
+Looting %: 
+Effects: 
+Points: 0/5
+
+Dead Eye %: 
+Effects: 
+Points: 0/5
+
+Tracking %:
+Effects: 
+Points: 0/5
+
+Demolition Expert:
+Effects: 
+Points: 0/5
+
+***Strength: 0/10
+
+Club %:
+Effects: 
+Points: 0/5
+
+Big and Fast %: 
+Effects: 
+Points: 0/3
+
+Shotgun %:
+Effects: 
+Points: 0/5
+
+Backpack Increase :
+Effects: 
+Points: 0/5
+
+Material Harvesting
+Effects: 
+Points: 0/5
+
+***Fortitude: 0/10
+Fists %:
+Effects: 
+Points: 0/5
+
+Lightning Hands %:
+Effects: 
+Points: 0/3
+
+Fortitude Mastery: 
+Effects: 
+Points: 0/3
+
+Machine Gun %:
+Effects: 
+Points: 0/5
+
+Combat Health Regen %:
+Effects: 
+Points: 0/5
+
+Stamina Regen %:
+Effects: 
+Points: 0/5
+
+Iron Gut %:
+Effects: 
+Points: 0/5
+
+***Agility: 0/10
+
+Sneaking %:
+Effects: 
+Points: 0/5
+
+Sneak Attack mod %:
+Effects: 
+Points: 0/5
+
+Bow %:
+Effects: 
+Points: 0/5
+
+Knife %:
+Effects: 
+Points: 0/5
+
+Whirlwind %: 
+Effects: 
+Points: 0/3
+
+Handguns: 
+Effects: 
+Points: 0/5
+
+Parkour:
+Effects: 
+Points: 0/5
+
+Agility Mastery: 
+Effects: 
+Points: 0/3
+
+**”Intellect: 0/10
+
+Electrocutioner %:
+Effects: 
+Points: 0/5
+
+Robotics Inventor: 
+Effects: 
+Points: 0/5
+
+Calculated Attack %:
+Effects: 
+Points: 0/3
+
+Better Barter: 
+Effects: 
+Points: 0/5
+
+Physician %:
+Effects: 
+Points: 0/5
+
+Advanced Engineering %:
+Effects: 
+Points: 0/5
+
+Grease Monkey: 
+Effects: 
+Points: 0/5
+
+Intellect Mastery:
+Effects: 
+Points: 0/5
+
+---
+
+### 🍖 SECTION 3: SUSTENANCE & MICRONUTRIENTS
+* **Food Level:**  %
+
+* **Water Level:**  %
+
+* **Micronutrients Requirement:** 
+
+---
+
+### 🌀 SECTION 4: PASSIVE BUFFS
+
+* **Buff 1 Name:** 
+
+  * *Effect:*
+
+
+ * **Buff 2 Name:** 
+
+  * *Effect:*
+
+
+
+ * **Buff 3 Name:** 
+
+  * *Effect:*
+
+
+
+ * **Buff 4 Name:** 
+  * *Effect:* 
+
+---
+
+### 🎒 SECTION 5: INVENTORY & EQUIPMENT
+
+#### 🛡️ WORN GEAR & APPAREL
+* **1. Head:** 
+
+
+  * *Durability:*  / 
+  * *Armor Percentage:*  %
+
+  * *Effect:* 
+
+  * *Mods:* [Slot 1]  | [Slot 2]  | [Slot 3]
+
+ * **2. Eyes:** 
+
+  * *Durability:*  / 
+
+  * *Armor Percentage:*  %
+
+  * *Effect:* 
+
+
+
+  * *Mods:* [Slot 1]  | [Slot 2]  | [Slot 3]
+
+
+ * **3. Mouth:** 
+
+  * *Durability:*  / 
+
+  * *Armor Percentage:*  %
+
+  * *Effect:* 
+
+  * *Mods:* [Slot 1]  | [Slot 2]  | [Slot 3]
+
+
+ * **4. Chest:** 
+
+  * *Durability:*  / 
+
+  * *Armor Percentage:*  %
+  * *Effect:* 
+
+  * *Mods:* [Slot 1]  | [Slot 2]  | [Slot 3]
+
+
+ * **5. Arms:** 
+
+  * *Durability:*  / 
+
+  * *Armor Percentage:*  %
+
+  * *Effect:* 
+
+  * *Mods:* [Slot 1]  | [Slot 2]  | [Slot 3]
+
+ * **6. Legs:** 
+
+  * *Durability:*  / 
+
+  * *Armor Percentage:*  %
+
+  * *Effect:* 
+
+  * *Mods:* [Slot 1]  | [Slot 2]  | [Slot 3]
+
+ * **7. Feet:** 
+
+  * *Durability:*  / 
+
+  * *Armor Percentage:*  %
+
+  * *Effect:* 
+
+  * *Mods:* [Slot 1]  | [Slot 2]  | [Slot 3] 
+
+
+#### ⚔️ ARSENAL
+
+
+* **8. Primary Weapon:** 
+
+
+  * *Durability:*  / 
+
+  * *Damage Type:* 
+
+  * *Stat Requirement:*
+ 
+  * *Percentage to Hit:*  %
+
+  * *Damage Dice:* 
+
+  * *Mods:* [Slot 1]  | [Slot 2]  | [Slot 3]
+
+
+ * **9. Secondary Weapon:** 
+
+
+  * *Durability:*  / 
+
+
+  * *Damage Type:* 
+
+
+  * *Stat Requirement:* 
+
+
+  * *Percentage to Hit:*  %
+
+  * *Damage Dice:* 
+
+  * *Mods:* [Slot 1]  | [Slot 2]  | [Slot 3] 
+
+
+
+#### 🛠️ UTILITY & CONSUMABLES
+
+
+* **10. Tool:** 
+
+  * *Durability:*  / 
+
+  * *Function (ex. Mine, Search):* 
+
+  * *Success Percentage:*  %
+
+  * *Gather Amount (Dice):*
+
+ 
+  * *Effects:* 
+
+
+  * *Mods:* [Slot 1]  | [Slot 2]  | [Slot 3]
+
+
+ * **11. Food:** 
+
+
+  * *Durability:*  / 
+
+
+  * *Consuming %:*  % | *Satiation %:*  %
+
+  * *Sickness:*  | *Damage:*  | *Detriment:* 
+
+*Buff Name:
+
+Benefit:
+
+Healing Amount:
+
+*12. Drink: 
+
+*Consuming %:*  0/0 
+
+*Satiation %:* 0/0
+
+*Sickness: 
+
+Damage:  
+
+Detriment: 
+
+*Buff Name:
+
+Benefit:
+
+Healing Amount:
+
+
+*13. Healing Item: 
+
+*Heal Chance:  0%
+
+* Healing Modifier: 0%
+ 
+*Heal Amount: 0d0
+
+ *Satiation %: 0%
+
+* Sickness:
+
+Damage: 0d0
+
+
+Detriment:
+
+
+
+* Buff Name:
+
+Benefit:
+
+Healing Amount: 
+
+
+#### 🧥 OUTFIT SLOTS: Jackets, Desert Wear, Hazmat Suit
+
+* Outfit Slot 1: 
+
+
+* Effect: 
+
+* Mods:
+
+[Slot 1]  
+
+
+[Slot 2]
+
+
+* Outfit Slot 2: 
+
+*Effect: 
+
+ Mods:
+
+ 
+[Slot 1]  
+
+[Slot 2] 
+
+
+#### 📦 CARRIED SUPPLIES (10 SLOTS)
+
+
+1.Name:
+
+Qty:  
+
+Desc:
+
+
+2. Name: 
+
+Qty:
+
+Desc:
+
+ 3. Name: 
+
+Qty:
+
+Desc:
+
+
+ 4. Name:
+
+Qty:
+
+Desc:
+
+
+ 5. **Name: 
+
+Qty:
+
+Desc:
+
+
+ 6. Name: 
+
+Qty:
+
+Desc:
+
+ 7. Name:
+
+Qty:
+
+Desc: 
+
+
+ 8. Name:
+
+Qty:
+
+Desc:
+
+
+ 9. Name:
+
+Qty: 
+
+Desc:
+
+
+ 10. Name: 
+
+Qty: 
+
+
+Desc:
+
+
+
+
